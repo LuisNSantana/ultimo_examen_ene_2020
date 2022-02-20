@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/examenProgramacionEne/punto2/bin/Debug/punto2.exe
+/Users/luisnayib/Projects/examenProgramacionEne/punto2/bin/Debug/punto2.pdb
+/Users/luisnayib/Projects/examenProgramacionEne/punto2/obj/anycpu/Debug/punto2.exe
+/Users/luisnayib/Projects/examenProgramacionEne/punto2/obj/anycpu/Debug/punto2.pdb

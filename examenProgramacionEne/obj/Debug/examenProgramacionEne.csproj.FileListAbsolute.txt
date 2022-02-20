@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/examenProgramacionEne/examenProgramacionEne/bin/Debug/examenProgramacionEne.exe
+/Users/luisnayib/Projects/examenProgramacionEne/examenProgramacionEne/bin/Debug/examenProgramacionEne.pdb
+/Users/luisnayib/Projects/examenProgramacionEne/examenProgramacionEne/obj/Debug/examenProgramacionEne.csprojAssemblyReference.cache
+/Users/luisnayib/Projects/examenProgramacionEne/examenProgramacionEne/obj/Debug/examenProgramacionEne.exe
+/Users/luisnayib/Projects/examenProgramacionEne/examenProgramacionEne/obj/Debug/examenProgramacionEne.pdb

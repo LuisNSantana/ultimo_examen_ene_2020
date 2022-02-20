@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2F3FBDBC-BC98-42C3-B3C0-6488143FF34E}|Default">
+  <MonoDevelop.Ide.ItemProperties.punto4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.punto2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="punto4/anhochino.cs">
+    <Files>
+      <File FileName="examenProgramacionEne/Program.cs" Line="18" Column="22" />
+      <File FileName="punto2/Program.cs" Line="39" Column="96" />
+      <File FileName="punto3/Program.cs" Line="33" Column="40" />
+      <File FileName="punto4/Program.cs" Line="80" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="examenProgramacionEne" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.examenProgramacionEne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.punto3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
